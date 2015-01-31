@@ -1,0 +1,37 @@
+debuggroup summary 0.13s welcome to circos v0.67-5 19 Jan 2015 on Perl 5.020001
+debuggroup summary 0.13s loading configuration from file etc/circos.conf
+debuggroup summary 0.13s found conf file etc/circos.conf
+debuggroup summary 0.25s debug will appear for these features: summary,timer
+debuggroup summary 0.25s bitmap output image ./circos.png
+debuggroup summary 0.25s SVG output image ./circos.svg
+debuggroup summary 0.25s parsing karyotype and organizing ideograms
+debuggroup summary 0.29s karyotype has 12 chromosomes of total size 36,312
+debuggroup summary 0.29s applying global and local scaling
+debuggroup summary 0.29s allocating image, colors and brushes
+debuggroup summary 0.69s drawing 12 ideograms of total size 36,312
+debuggroup summary 0.69s drawing highlights and ideograms
+debuggroup timer 1.38s report circos 1.246 s
+debuggroup timer 1.38s report color 0.283 s
+debuggroup timer 1.38s report colorcache 0.005 s
+debuggroup timer 1.38s report colordefinitions 0.076 s
+debuggroup timer 1.38s report colorfetch 0.005 s
+debuggroup timer 1.38s report colorlists 0.018 s
+debuggroup timer 1.38s report colorlookups 0.004 s
+debuggroup timer 1.38s report colortransparency 0.133 s
+debuggroup timer 1.38s report datarules 0.000 s
+debuggroup timer 1.38s report graphic_png_polygon 0.095 s
+debuggroup timer 1.38s report graphic_slice 0.244 s
+debuggroup timer 1.38s report graphic_slice_polygon_coord 0.049 s
+debuggroup timer 1.38s report graphic_slice_polygon_svg 0.065 s
+debuggroup timer 1.38s report graphic_slice_preprocess 0.029 s
+debuggroup timer 1.38s report highlights 0.000 s
+debuggroup timer 1.38s report ideograms_draw 0.354 s
+debuggroup timer 1.38s report ideograms_processing 0.002 s
+debuggroup timer 1.38s report ideograms_ticks_draw 0.027 s
+debuggroup timer 1.38s report ideograms_zoom 0.002 s
+debuggroup timer 1.38s report karyotype 0.035 s
+debuggroup timer 1.38s report parameter_seek 0.014 s
+debuggroup timer 1.38s report unitconvert 0.001 s
+debuggroup timer 1.38s report unitconvert_decision 0.000 s
+debuggroup timer 1.38s report unitconvert_delegate 0.001 s
+debuggroup timer 1.38s report unitparse 0.003 s
