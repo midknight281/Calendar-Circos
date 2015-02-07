@@ -311,6 +311,7 @@ band oct band27 band27 2601 2700 grey
 band oct band28 band28 2701 2800 grey
 band oct band29 band29 2801 2900 grey
 band oct band30 band30 2901 3000 grey
+band oct band31 band31 3001 3100 grey
 band nov band1 band1 0 100 grey
 band nov band2 band2 100 200 grey
 band nov band3 band3 200 300 grey
@@ -371,4 +372,5 @@ band dec band27 band27 2601 2700 grey
 band dec band28 band28 2701 2800 grey
 band dec band29 band29 2801 2900 grey
 band dec band30 band30 2901 3000 grey
+band dec band31 band31 3001 3100 grey
 

@@ -3,11 +3,17 @@
 
 <spacing>
 default = 0.005r
+break = 2u
 </spacing>
+
+axis_break_at_edge = yes
+axis_break = yes
+axis_break_style = 2
+
 <<include bands.conf>>
 # Ideogram position, fill and outline
 radius           = 0.95r
-thickness        = 50p
+thickness        = 75p
 fill             = yes
 stroke_color     = dgrey
 stroke_thickness = 2p
@@ -17,9 +23,10 @@ stroke_thickness = 2p
 show_label       = yes
 # see etc/fonts.conf for list of font names
 label_font       = default 
-label_radius     = dims(image,radius)-60p
+label_radius     = dims(image,radius)-30p
 label_size       = 30
 label_parallel   = yes
+
 
 
 
